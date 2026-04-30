@@ -41,6 +41,12 @@ This project demonstrates my understanding of:
 
 ---
 
+## 📸 Screenshot
+
+![App Screenshot](screenshot.png)
+
+---
+
  👨‍💻 Author
 
 Mohamed Ahmed
